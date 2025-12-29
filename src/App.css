@@ -1,0 +1,8 @@
+.top-pane {
+    display: flex;
+
+    gap: 10px;
+    background-color:hsl(225, 6%, 25%); 
+    padding : 10px;
+}
+
