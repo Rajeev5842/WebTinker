@@ -32,8 +32,20 @@
 
 ## Installation
 
-1. Clone the repository:
+1. Clone the repository :
 
-```bash
+```bash 
 git clone https://github.com/yourusername/WebTinker.git
 cd WebTinker
+```
+
+2. Install Dependencies : 
+
+```bash 
+npm install
+```
+
+3. Start the development server :
+```bash 
+npm start
+```
